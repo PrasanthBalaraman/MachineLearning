@@ -1,3 +1,4 @@
+# helper functions for Image Classifer using Tensorflow
 import tensorflow as tf 
 import numpy as np 
 import _pickle as cPickle
